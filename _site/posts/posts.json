@@ -1,0 +1,18 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to TidyTom's World",
+    "description": "Welcome to our new blog, TidyTom's World. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-12-22",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-22T20:26:09+00:00",
+    "input_file": {}
+  }
+]
