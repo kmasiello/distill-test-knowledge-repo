@@ -1,18 +1,36 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to TidyTom's World",
-    "description": "Welcome to our new blog, TidyTom's World. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/git-workflows/",
+    "title": "Git workflows with RStudio",
+    "description": "A short introduction to using Git / GitHub with RStudio and RStudio Connect",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Katie Masiello",
+        "url": "https://rstudio.com"
       }
     ],
-    "date": "2020-12-22",
+    "date": "2021-02-07",
     "categories": [],
+    "contents": "\nFor getting started with Git and GitHub in RStudio, I recommend:\nGit workflows:\nHappy Git and GitHub for the useR: https://happygitwithr.com/\n\nGit / Github best practices and use of Git in the RStudio IDE:\nThis section of R Packages, by Wickham: http://r-pkgs.had.co.nz/git.html\n\n\npreservef59bc8e039408b63\n\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-22T20:26:09+00:00",
-    "input_file": {}
+    "last_modified": "2021-02-07T21:56:48-08:00",
+    "input_file": "git-workflows.utf8.md"
+  },
+  {
+    "path": "posts/2021-02-07-why-apis/",
+    "title": "Why APIs",
+    "description": "You're probably not using APIs, but you probably should. What are APIs? How do you use them? And how do you get started?",
+    "author": [
+      {
+        "name": "Katie Masiello",
+        "url": "https://rstudio.com"
+      }
+    ],
+    "date": "2021-02-07",
+    "categories": [],
+    "contents": "\n\npreserve9dd3a0b5c5872139\n\nAdditional Resources:\nSee the plumber package website: https://www.rplumber.io/. You’ll find installation instructions along with related projects and contextual information\nWatch our webinar covering the latest in the Plumber package: https://rstudio.com/resources/webinars/expanding-r-horizons-integrating-r-with-plumber-apis/\nAt our annual conference rstudio::conf 2020, Alex Gold (Solutions Engineer at RStudio) presented some additional ways to bring your R work into production using Plumber: https://rstudio.com/resources/rstudioconf-2020/deploying-end-to-end-data-science-with-shiny-plumber-and-pins/\nAnother excellent conference talk is James Blair’s rstudio::conf 2019 talk “Democratizing R with Plumber APIS” where he takes an existing Shiny application that uses an R model and turns the model into an API so it can be used by other applications: https://rstudio.com/resources/rstudioconf-2019/democratizing-r-with-plumber-apis/\nIf you’re interested in how Plumber specifically works with RStudio Connect you can find documentation here: https://docs.rstudio.com/how-to-guides/rsc/publish-plumberapi/\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-07T22:00:30-08:00",
+    "input_file": "why-apis.utf8.md"
   }
 ]

@@ -1,7 +1,7 @@
 name: "distill-test-comments"
-title: "TidyTom's World"
+title: "Learning Resources"
 description: |
-  TidyTom's World
+  Learning Resources
 output_dir: "_site"
 navbar:
   right:

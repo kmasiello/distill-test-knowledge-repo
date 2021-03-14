@@ -1,0 +1,26 @@
+---
+title: "Git workflows with RStudio"
+description: |
+  A short introduction to using Git / GitHub with RStudio and RStudio Connect
+author:
+  - name: Katie Masiello 
+    url: https://rstudio.com
+    affiliation: RStudio Customer Success
+date: 09-15-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+#### For getting started with Git and GitHub in RStudio, I recommend:
+
+-   Git workflows:
+
+    -   Happy Git and GitHub for the useR: <https://happygitwithr.com/>
+
+-   Git / Github best practices and use of Git in the RStudio IDE:
+
+    -   This section of *R Packages*, by Wickham: <http://r-pkgs.had.co.nz/git.html>
+
+```{r embed-xaringan, echo=FALSE, fig.cap="[Slides](slides/slides.html)"}
+xaringanExtra::embed_xaringan(url = "slides/slides.html", ratio = "4:3")
+```
